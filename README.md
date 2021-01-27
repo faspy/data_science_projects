@@ -18,6 +18,6 @@ I am data-driven problem solver with a demonstrated history of working in manage
 
 
 ## Projects:
-Veja os tutoriais publicados do Sigmoidal:
+
 
 ---
